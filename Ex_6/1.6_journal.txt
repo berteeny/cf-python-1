@@ -1,0 +1,26 @@
+﻿1. What are databases and what are the advantages of using them?
+A database in MySQL allows you to store data in an orgamized/standarized format.
+The DB consists of tables, each with rows and columns that store data in the same format across the table. 
+This allows for easy reading, adding and modifying of data items 
+
+2. List 3 data types that can be used in MySQL and describe them briefly:
+
+	INT - Standard integers (no decimals)
+	VARCHAR(n) - String of variable length - `n` = max number of characters
+	DATETIME - Datetime values
+
+3. In what situations would SQLite be a better choice than MySQL?
+SQLite would be better than MySQL if you have a simple database or a temporary one. It requires no setup and can store data in a file.
+
+4. Think back to what you learned in the Immersion course. What do you think about the differences between JavaScript and Python as programming languages?
+I can see how Python is better to use for certain backend operations, it has been much easier to setup and interact with a database 
+in Python, and the built in commands and data types are very helpful. The syntactic differences, specifically indentation rather than 
+semicolons as in JS have been a bit to get used to, but when I encounter errors I will definitely know to look there first. 
+
+5. Now that you’re nearly at the end of Achievement 1, consider what you know about Python so far. What would you say are the limitations 
+of Python as a programming language?
+Limitations of Python are a slower runtime compared to JS, the lack of support for/ability to use it for mobile applications,
+ and the syntactic minimality- having learned JS first, switching to Python has not been too difficult in regards to 
+ syntactic changes (semicolons - indentation, etc) but I could see how someone might have a hard time learning JS after only knowing Python, 
+ as rather than taking away things like semicolons and parenthesis but having them still implied, they will have to input something new for 
+ functions and loops, which can be hard to remember and could lead to code errors.
