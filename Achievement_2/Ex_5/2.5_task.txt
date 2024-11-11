@@ -1,0 +1,7 @@
+1. I have added a pic attribute to each recipe, along witha  default image if the user chooses not to add an image.
+Otherwise everything has stayed the same as the last iteration, as it works well functionally. Migrations have been completed.
+2. I have added five records to the database via the admin portal
+3. https://recipesage.com/#/welcome
+    i like this app becasue its homepage is welcoming and it shows a preview of what the view looks like when logged in so you can see before you make an account
+    https://fitmencook.com/
+    i like the way this app organizes its recipes into cards that all look cohesive and clean
